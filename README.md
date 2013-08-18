@@ -9,5 +9,6 @@
 * [wiki](http://zh.wikipedia.org/zh-hans/Markdown)
 * [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
 * [markdown在线编辑器：官网的](http://daringfireball.net/projects/markdown/dingus)
+* [可连接至github的在线编辑器](http://dillinger.io/)
 * [华丽一点的在线编辑器](http://mahua.jser.me/)
 * [简书：用markdown来写文章的平台，清新风](http://jianshu.io/)
